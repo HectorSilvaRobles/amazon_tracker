@@ -2,7 +2,6 @@ let handler = require('./post_function');
 
 const invokeJson = {
     body: {
-        "guid": "1",
         "asin": "23143"
     }
 }
